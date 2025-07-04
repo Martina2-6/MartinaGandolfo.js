@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "integrador",
+  "version": "1.0.0",
+  "main": "MartinaGandoolfo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martina2-6/MartinaGandolfo.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Martina2-6/MartinaGandolfo.js/issues"
+  },
+  "homepage": "https://github.com/Martina2-6/MartinaGandolfo.js#readme",
+  "description": ""
+}
